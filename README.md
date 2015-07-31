@@ -7,6 +7,7 @@ Try using this template and you might like it.
 ### Dependencies
 * commons-lang
 * commons-collections
+* commons-io
 * google-guava
 * slf4j with log4j
 * JUnit for unit and integration testing
