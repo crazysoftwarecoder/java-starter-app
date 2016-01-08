@@ -15,7 +15,7 @@ Try using this template and you might like it.
 * Joda time and date, money
 * Hibernate core
 * HSQL DB for integration tests
-
+* Travis Integration
 
 
 
