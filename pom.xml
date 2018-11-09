@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.myseriousorganization.application</groupId>
-    <artifactId>java_sample_app</artifactId>
+    <artifactId>algorithms</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <description>A Sample Java App</description>
+    <description>Algorithms</description>
     <developers>
         <developer>
             <name>Ashwanth Fernando</name>
